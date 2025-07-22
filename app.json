@@ -1,5 +1,5 @@
 {
-  "name": "SUHO-MD",
+  "name": "꧁☯࿐𝐌𝐀𝐍𝐄𝐒𝐔𝐍𝐆-𝐒𝐔𝐇𝐎-𝐌𝐃",
   "description": "Javascript WhatsApp bot made by Mr Sung",
   "logo": "https://files.catbox.moe/vcofni.jpg",
   "keywords": ["Sung-Suho-MD","LITE-XD"],
@@ -15,7 +15,7 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "sᴜʜᴏ-ᴍᴅ"      
+        "value": "꧁☯࿐𝐌𝐀𝐍𝐄𝐒𝐔𝐍𝐆-𝐒𝐔𝐇𝐎-𝐌𝐃"      
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
